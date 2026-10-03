@@ -1,16 +1,25 @@
-# notes_app
+# Notes App - Flutter
 
-A new Flutter project.
+Aplikasi catatan sederhana yang dibuat menggunakan Flutter dan State Management Provider.
 
-## Getting Started
+## Dibuat oleh
 
-This project is a starting point for a Flutter application.
+- **Nama**: Rina Anggraeni
+- **Kelas**: XI-PPLG 1
+- **No Absen**: 35
 
-A few resources to get you started if this is your first Flutter project:
+## Fitur
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Menambah catatan baru (judul + isi)
+- Menampilkan daftar catatan
+- Menghapus catatan
+- Navigasi antar halaman (Home ↔ Tambah Catatan)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknologi yang Digunakan
+
+- Flutter
+- Dart
+- State Management: **Provider**
+- Stateless Widget & Stateful Widget
+
+## Struktur Folder
